@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://github.com/Lysander-cmd/Lysander-cmd/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
